@@ -1,4 +1,4 @@
-##Shopify Mobile Internship iOS Application along with Optional Tasks
+##Shopify Mobile Internship iOS Application with Optional Tasks
 
 cocoapods used Alamofire & SwiftyJSON, kindly open ShopifyMobileInternChallenge.xcworkspace to see the app
 
