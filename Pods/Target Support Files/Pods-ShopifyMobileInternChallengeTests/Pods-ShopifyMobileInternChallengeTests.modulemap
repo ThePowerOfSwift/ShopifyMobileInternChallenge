@@ -1,0 +1,6 @@
+framework module Pods_ShopifyMobileInternChallengeTests {
+  umbrella header "Pods-ShopifyMobileInternChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
