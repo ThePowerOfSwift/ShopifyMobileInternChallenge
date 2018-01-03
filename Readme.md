@@ -3,5 +3,5 @@
 cocoapods used Alamofire & SwiftyJSON, kindly open ShopifyMobileInternChallenge.xcworkspace to see the app
 
 
-![Screenshot software](https://github.com/credo92/EventFinder/blob/master/mobile.png "screenshot software")
+![Screenshot software](https://github.com/credo92/ShopifyMobileInternChallenge/blob/master/mobile.png "screenshot software")
 
